@@ -69,3 +69,20 @@ El enlace al tablero de GitHub Projects se agregará una vez creado y configurad
 ---
 
 Proyecto académico - Desarrollo Ágil de Software
+
+## Sprint 1 — Plan
+
+**Fecha de inicio:** 18/09/2026  
+**Fecha de fin estimada:** 23/09/2026
+
+### UHs seleccionadas
+
+- HU-01 — Diseñar la interfaz del reproductor
+- HU-02 — Crear reproductor de audio
+- HU-03 — Implementar controles de reproducción
+- HU-04 — Crear lista de canciones
+- HU-05 — Implementar barra de progreso
+
+### Criterio de selección
+
+Se seleccionaron estas cinco UHs porque corresponden a las funcionalidades principales del reproductor de música. Primero se desarrollará la interfaz y las funciones básicas de reproducción, ya que sirven como base para incorporar posteriormente otras funcionalidades.
