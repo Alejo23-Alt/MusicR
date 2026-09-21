@@ -16,15 +16,15 @@
 
 ## UHs seleccionadas
 
-- HU-01 ‐ Diseñar la interfaz del reproductor
+- HU-01: Diseñar la interfaz del reproductor
 
-- HU-02 – Crear reproductor de audio
+- HU-02: Crear reproductor de audio
 
-- HU-03  Implementar controles de reproducción
+- HU-03: Implementar controles de reproducción
 
-- HU-04 — Crear lista de canciones
+- HU-04: Crear lista de canciones
 
-- HU-05  Implementar barra de progreso
+- HU-05: Implementar barra de progreso
 
 Las cinco UHs fueron seleccionadas porque corresponden a las funcionalidades principales del reproductor de música. Primero se desarrollará la interfaz y las funciones básicas de reproducción, ya que sirven como base para incorporar posteriormente otras funcionalidades.
 
