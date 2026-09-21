@@ -57,9 +57,9 @@ nuevos. Además, se cerraron 2 issues y no se registraron pull requests abiertos
 
 Los dos issues cerrados fueron:
 
-- Issue #1 — Diseñar la interfaz del reproductor.
+- Issue #1: Diseñar la interfaz del reproductor.
 
-- Issue #2 — Crear reproductor de audio.
+- Issue #2: Crear reproductor de audio.
 
 Esto coincide con las dos UHs que actualmente aparecen como completadas en el tablero Kanban.
 
